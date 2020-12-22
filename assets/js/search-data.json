@@ -4,9 +4,9 @@
         "post0": {
             "title": "Title",
             "content": "PYNQ Quiz . Thank you for watching our Xilinx Sponsor Workshop video on PYNQ! Below is a short quiz and Additional Information that will give a little more context on what you learned in the video about the PYNQ platform. . Short quiz on FPGA technology and the PYNQ platform! . from lib import quiz_widgets as qw qw.show_questions() .",
-            "url": "https://philipwu62.github.io/fastpages/2020/12/21/pynq_quiz.html",
-            "relUrl": "/2020/12/21/pynq_quiz.html",
-            "date": " • Dec 21, 2020"
+            "url": "https://philipwu62.github.io/fastpages/2020/12/22/quiz.html",
+            "relUrl": "/2020/12/22/quiz.html",
+            "date": " • Dec 22, 2020"
         }
         
     
