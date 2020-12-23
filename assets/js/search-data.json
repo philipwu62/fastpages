@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Title",
-            "content": "PYNQ Quiz . Thank you for watching our Xilinx Sponsor Workshop video on PYNQ! Below is a short quiz and Additional Information that will give a little more context on what you learned in the video about the PYNQ platform. . Short quiz on FPGA technology and the PYNQ platform! . from lib import quiz_widgets as qw qw.show_questions() .",
+            "content": "PYNQ Quiz . Thank you for watching our Xilinx Sponsor Workshop video on PYNQ! Below is a short quiz and Additional Information that will give a little more context on what you learned in the video about the PYNQ platform. . Short quiz on FPGA technology and the PYNQ platform! . from lib import quiz_widgets as qw import subprocess def install(name): subprocess.call([&#39;pip&#39;, &#39;install&#39;, name]) install(&#39;rich&#39;) from rich import print print(&#39;[bold]Let &#39;s begin the test[/bold]&#39;) qw.show_questions() .",
             "url": "https://philipwu62.github.io/fastpages/2020/12/22/quiz.html",
             "relUrl": "/2020/12/22/quiz.html",
             "date": " • Dec 22, 2020"
