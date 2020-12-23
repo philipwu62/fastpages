@@ -1,1 +1,1 @@
-Sitemap: https://philipwu62.github.io/fastpages/sitemap.xml
+Sitemap: https://github.com/philipwu62/fastpages/tree/master/_notebooks/fastpages/sitemap.xml
