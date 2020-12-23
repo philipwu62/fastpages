@@ -14,7 +14,9 @@ github_repo: "fastpages"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://philipwu62.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://philipwu62.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/philipwu62/fastpages/tree/master/_notebooks" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
